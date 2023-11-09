@@ -20,7 +20,7 @@
         <p>Nume: Baciu</p>
         <p>Prenume: Petru-Rares<p>
         
-        <img src="lab 5/1.jpg">
+        <img src="1.jpg">
 
         <p>"Învățarea este singura comoară pe care nimeni nu o poate fura." - B.B. King<p>
         <p>Discipline dorite:<p>
